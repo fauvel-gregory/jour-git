@@ -1,0 +1,26 @@
+table {
+	border-style: solid;
+	border-color: pink;
+	border-collapse: collapse;
+	width:99%;
+	float:center;
+
+}
+
+td {
+	border-style: solid;
+	color:black;
+	float:center; 
+}
+.blochaut {
+	font-family: cursive;
+	width:60px
+}
+
+
+
+}
+.casevide {
+
+
+}
